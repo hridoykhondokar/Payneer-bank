@@ -1,0 +1,39 @@
+#wel-head {
+    text-align: center;
+    padding: 50px;
+}
+
+#login-area{
+    margin: 140px;
+}
+
+.amount{
+    margin-top: 50px;
+}
+
+#submit-area{
+    box-shadow: 5px 5px 10px gray;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#transacrtion-area{
+    display: none;
+    margin-top: 150px;
+}
+.status {
+    margin: 0 15px;
+    border-radius: 10px;
+    color: white;
+    padding: 25px;
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+
+.balance{
+    background-color: orange;
+}
